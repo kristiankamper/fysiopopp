@@ -2021,7 +2021,7 @@
         "title": "FysioPopp - Ydelser",
         "meta_descr": "",
         "header_custom": "",
-        "footer_custom": "<div class=\"fb-customerchat\"\n page_id=\"107138717482610\"\n minimized=\"true\">\n</div>\n<script>\n  window.fbAsyncInit = function() {\n    FB.init({\n      appId            : '107138717482610',\n      autoLogAppEvents : true,\n      xfbml            : true,\n      version          : 'v2.11'\n    });\n  };\n(function(d, s, id){\n     var js, fjs = d.getElementsByTagName(s)[0];\n     if (d.getElementById(id)) {return;}\n     js = d.createElement(s); js.id = id;\n     js.src = \"https://connect.facebook.net/en_US/sdk.js\";\n     fjs.parentNode.insertBefore(js, fjs);\n   }(document, 'script', 'facebook-jssdk'));\n</script>",
+        "footer_custom": "  <div class=\"fb-customerchat\"\n page_id=\"107138717482610\"\n minimized=\"true\">\n</div>\n<script>\n window.fbAsyncInit = function() {\n    FB.init({\n      appId            : '912333495590130',\n      autoLogAppEvents : true,\n      xfbml            : true,\n      version          : 'v2.11'\n    });\n  };\n(function(d, s, id){\n     var js, fjs = d.getElementsByTagName(s)[0];\n     if (d.getElementById(id)) {return;}\n     js = d.createElement(s); js.id = id;\n     js.src = \"https://connect.facebook.net/en_US/sdk.js\";\n     fjs.parentNode.insertBefore(js, fjs);\n   }(document, 'script', 'facebook-jssdk'));\n</script>",
         "html_before": "",
         "order": 2
       },
